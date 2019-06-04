@@ -1,0 +1,244 @@
+apiVersion: v1
+entries:
+  jx-demo-04:
+  - apiVersion: v1
+    appVersion: 0.0.50
+    created: "2019-06-03T14:46:30.486951661Z"
+    description: A Helm chart for Kubernetes
+    digest: ac710f9b228f7d7b6f8d3c4635ad47d031060848e826efe68fd5d3da2dc896d2
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.50.tgz
+    version: 0.0.50
+  - apiVersion: v1
+    appVersion: 0.0.47
+    created: "2019-06-03T14:11:02.969551634Z"
+    description: A Helm chart for Kubernetes
+    digest: 46236c28ec6a420527a8c2259fe3687b139abe7c984493798513110fa2507c28
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.47.tgz
+    version: 0.0.47
+  - apiVersion: v1
+    appVersion: 0.0.43
+    created: "2019-06-03T13:27:39.04170684Z"
+    description: A Helm chart for Kubernetes
+    digest: 878b91dc83cf47a77dcd8b2ef0141da56d8d5a17a9a4aa1332d634e75327414a
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.43.tgz
+    version: 0.0.43
+  - apiVersion: v1
+    appVersion: 0.0.42
+    created: "2019-06-03T13:20:18.077733124Z"
+    description: A Helm chart for Kubernetes
+    digest: 6d624c43cc6d91c4807831bee983a19c0f3e43692dd5730af53ca9b6bee847c8
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.42.tgz
+    version: 0.0.42
+  - apiVersion: v1
+    appVersion: 0.0.41
+    created: "2019-06-03T13:12:34.304760767Z"
+    description: A Helm chart for Kubernetes
+    digest: 069d0bb9104313be11040a1c99931d99c21214a3ef84870423a1c73457df42d0
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.41.tgz
+    version: 0.0.41
+  - apiVersion: v1
+    appVersion: 0.0.40
+    created: "2019-06-03T13:08:14.088776277Z"
+    description: A Helm chart for Kubernetes
+    digest: 30e305b391b31425de851983a43e1eed946d54ed5710f08e260232257fe3a6be
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.40.tgz
+    version: 0.0.40
+  - apiVersion: v1
+    appVersion: 0.0.39
+    created: "2019-06-03T11:53:51.045042295Z"
+    description: A Helm chart for Kubernetes
+    digest: d3925f0a1940f166f772eb17205f3ed903b2007c81b4b2f955bdbc1fd433e687
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.39.tgz
+    version: 0.0.39
+  - apiVersion: v1
+    appVersion: 0.0.38
+    created: "2019-06-03T10:25:12.187359324Z"
+    description: A Helm chart for Kubernetes
+    digest: cdf4f996538ebb1f41a5542f2c63dc9334e385abacbe2dbadabe4939c37fddfd
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.38.tgz
+    version: 0.0.38
+  - apiVersion: v1
+    appVersion: 0.0.37
+    created: "2019-06-03T09:14:22.599612619Z"
+    description: A Helm chart for Kubernetes
+    digest: 215c103a2fcc8ec5e7dfabeadd8847f871f83053be9d748549b0fb4616563e3b
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.37.tgz
+    version: 0.0.37
+  - apiVersion: v1
+    appVersion: 0.0.36
+    created: "2019-06-03T08:53:54.629685812Z"
+    description: A Helm chart for Kubernetes
+    digest: db8b829c6b136ca0222f11856a2ceb02e1a8e6a19d7801f11987b8a18b40280f
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.36.tgz
+    version: 0.0.36
+  - apiVersion: v1
+    appVersion: 0.0.35
+    created: "2019-06-02T22:39:52.491881774Z"
+    description: A Helm chart for Kubernetes
+    digest: a8c1cdcdd4b8fd765b4a2e0d55994f6ced5260d4fa14cacd6d0d4d6e2d82e6ce
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.35.tgz
+    version: 0.0.35
+  - apiVersion: v1
+    appVersion: 0.0.34
+    created: "2019-06-02T22:21:49.332946336Z"
+    description: A Helm chart for Kubernetes
+    digest: 8b8050c842c779e0b9e5617796b34de490d4de121774416ea5fbdb76c8fdf71d
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.34.tgz
+    version: 0.0.34
+  - apiVersion: v1
+    appVersion: 0.0.33
+    created: "2019-06-02T22:14:43.401971723Z"
+    description: A Helm chart for Kubernetes
+    digest: 29b6de3c5b2e8f5366af24ca65c0479aceeb0001c3b8032fe321a76d6dd95734
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.33.tgz
+    version: 0.0.33
+  - apiVersion: v1
+    appVersion: 0.0.26
+    created: "2019-06-02T21:26:13.369145175Z"
+    description: A Helm chart for Kubernetes
+    digest: 71225aca17ccd2f6f4d921caf29b9369d589368b68b7106a42666bef74dca388
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.26.tgz
+    version: 0.0.26
+  - apiVersion: v1
+    appVersion: 0.0.25
+    created: "2019-06-02T21:19:34.243168964Z"
+    description: A Helm chart for Kubernetes
+    digest: 8998848fee43adbe4fdfcca0cf022eb3e84772b786497bd33793a90b3bb037e7
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.25.tgz
+    version: 0.0.25
+  - apiVersion: v1
+    appVersion: 0.0.24
+    created: "2019-06-02T21:01:24.216233935Z"
+    description: A Helm chart for Kubernetes
+    digest: 7f1aacd67de6d6eaad27f79a9cf80bb5fcdf82ec7b1170affafd75551e47b721
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.24.tgz
+    version: 0.0.24
+  - apiVersion: v1
+    appVersion: 0.0.22
+    created: "2019-06-02T20:40:39.072308152Z"
+    description: A Helm chart for Kubernetes
+    digest: 41858548dee7e6f1b9018c6ccc1e31640adce9200282c88eebc6575f9a0f4b5d
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.22.tgz
+    version: 0.0.22
+  - apiVersion: v1
+    appVersion: 0.0.21
+    created: "2019-06-02T20:25:43.608361525Z"
+    description: A Helm chart for Kubernetes
+    digest: cfe3218715e82413d92c80d8036c737e78d41e312639654e627adb3ada25ba04
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.21.tgz
+    version: 0.0.21
+  - apiVersion: v1
+    appVersion: 0.0.19
+    created: "2019-06-02T19:42:32.166515987Z"
+    description: A Helm chart for Kubernetes
+    digest: 7acba4e0782e794de0e691ee17c14566e910f2ead1ae864a9c66d8c77a414064
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.19.tgz
+    version: 0.0.19
+  - apiVersion: v1
+    appVersion: 0.0.18
+    created: "2019-06-02T18:54:21.669688274Z"
+    description: A Helm chart for Kubernetes
+    digest: 464e5739051abd4fc2dea77f299ef9f32401b12ab75e13b256e745b04fb04ac6
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.18.tgz
+    version: 0.0.18
+  - apiVersion: v1
+    appVersion: 0.0.14
+    created: "2019-06-01T17:57:05.838042908Z"
+    description: A Helm chart for Kubernetes
+    digest: cdb7d94192ba1bace1a7cc6a5b356f565c8c7598c453281c5a253b6c56e93dce
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.14.tgz
+    version: 0.0.14
+  - apiVersion: v1
+    appVersion: 0.0.13
+    created: "2019-06-01T17:14:26.331195466Z"
+    description: A Helm chart for Kubernetes
+    digest: 5bb838bcc434bb4c7177a85df3c091182e7c14a8508bac98a7311ecbdd9f00ce
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.13.tgz
+    version: 0.0.13
+  - apiVersion: v1
+    appVersion: 0.0.11
+    created: "2019-06-01T16:23:57.053376025Z"
+    description: A Helm chart for Kubernetes
+    digest: 805df56f3adea89dcfe6bf3267f28f457eeb8cf0c5974141a913c19843a2dd2d
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.11.tgz
+    version: 0.0.11
+  - apiVersion: v1
+    appVersion: 0.0.10
+    created: "2019-06-01T15:47:56.973504776Z"
+    description: A Helm chart for Kubernetes
+    digest: f24daf104ece073531163fba3361e179b4a9eb2d67770bd9902fc9ea4ee810ed
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: jx-demo-04
+    urls:
+    - charts/jx-demo-04-0.0.10.tgz
+    version: 0.0.10
+generated: "2019-06-03T14:46:47Z"
